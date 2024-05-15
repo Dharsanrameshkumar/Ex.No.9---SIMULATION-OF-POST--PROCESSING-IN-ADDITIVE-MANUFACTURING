@@ -46,8 +46,8 @@
 ![image](https://github.com/Dharsanrameshkumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870430/5e2cf42b-e4a4-4259-94a9-228bf9ce775b)
 
 
-### Name:212223100003
-### Register Number:Dharsan R
+### Name:Dharsan R
+### Register Number:212223100003
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
