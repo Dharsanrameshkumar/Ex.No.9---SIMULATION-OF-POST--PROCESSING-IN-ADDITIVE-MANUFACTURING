@@ -45,6 +45,8 @@
 ![image](https://github.com/Dharsanrameshkumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870430/267c43f4-83b3-4077-b664-8626d1574ee0)
 ![image](https://github.com/Dharsanrameshkumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870430/5e2cf42b-e4a4-4259-94a9-228bf9ce775b)
 
+# OUTPUT:
+![WhatsApp Image 2024-05-15 at 15 15 04_6f6c4e00](https://github.com/Dharsanrameshkumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870430/0c21defe-7df4-489f-82c5-694b1f33cb8c)
 
 ### Name:Dharsan R
 ### Register Number:212223100003
